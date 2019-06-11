@@ -1,0 +1,63 @@
+.button {
+  background-image: linear-gradient(135deg, #EFF208 0%, #E59C4F 100%);
+  border: none;
+  border-radius: 3px;
+  font-family: ArialMT;
+  font-size: 13px;
+  color: #FFFFFF;
+  letter-spacing: 0;
+  text-align: center;
+  height: 50px;
+  width: 380px;
+}
+
+.header {
+  font-family: ArialMT;
+  font-size: 60px;
+  color: #AFAFAF;
+  text-align: center;
+  margin: 100px;
+}
+
+.footer {
+  background-color: #1F2532;
+  height: 200px;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+.text {
+  font-family: ArialMT;
+  font-size: 13px;
+  color: #AFAFAF;
+  text-align: center;
+  line-height: 0.5;
+  padding: 90px;
+}
+
+.forma {
+  font-family: ArialMT;
+  font-size: 40px;
+  color: #AFAFAF;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+}
+
+a:link {
+  color: #DAC80A;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #DAC80A;
+  text-decoration: none;
+}
+
+#background-image: linear-gradient(133deg, #92099A 0%, #E10B90 100%);
+#background-image: linear-gradient(135deg, #EFF208 0%, #E59C4F 100%);

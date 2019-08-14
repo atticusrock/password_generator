@@ -59,5 +59,15 @@ a:visited {
   text-decoration: none;
 }
 
+input[type=text] {
+    padding: 15px;
+    border: none;
+    font-family: ArialMT;
+    font-size: 35px;
+    color: #AFAFAF;
+    text-align: center;
+   }
+
+
 #background-image: linear-gradient(133deg, #92099A 0%, #E10B90 100%);
 #background-image: linear-gradient(135deg, #EFF208 0%, #E59C4F 100%);

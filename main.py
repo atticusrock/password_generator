@@ -15,9 +15,3 @@ app = Flask(__name__)
 def password():
     name = request.args.get("name", "World")
     return generator()
-1
-1
-1
-11
-1
-1
